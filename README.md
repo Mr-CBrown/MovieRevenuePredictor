@@ -1,6 +1,9 @@
 # MovieRevenuePredictor
 Movie Revenue Predictor - Linear Regression 
 
+## File Name 
+https://github.com/coalplease/MovieRevenuePredictor/blob/main/regression.ipynb
+
 ## Technologies Used:
 Jupyter Notebook, Python (Pandas, Matplotlib, Scikit)
 
